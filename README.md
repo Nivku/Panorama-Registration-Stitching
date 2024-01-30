@@ -2,7 +2,7 @@
 ## Overview
 This project was made as part of my studies of Image Processing course in the Hebrew University in Jerusalem.
 
-In this project I implemented the "Stereo Mosaicking" algorithm. The input of such an algorithm is a sequence of images 
+In this project I implemented the usage of Harris feature points and extracting their MOPS-like descriptors. The input of such an algorithm is a sequence of images 
 scanning a scene from left to right (due to camera rotation and/or translation -
 we assume rigid transform between images).
 
